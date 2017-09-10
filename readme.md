@@ -23,4 +23,4 @@ awaitAsset(someAssedId).then(function() { ... });
 
 ### Requirements
 
-Requires PlayCanvas Engine to be running on the page.
+Requires PlayCanvas Engine to be running on the page.  Uses ES6/Babel/PlayCanvas template.
