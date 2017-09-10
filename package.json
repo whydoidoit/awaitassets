@@ -1,0 +1,25 @@
+{
+  "name": "playcanvas-awaitassets",
+  "version": "1.0.1",
+  "description": "Promise wrapper for PlayCanvas asset loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/awaitassets.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/awaitassets/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/awaitassets#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
