@@ -5,7 +5,7 @@ Promisifies the loading of an asset in PlayCanvas.
 ### Installation
 
 ```language-shell
-npm intall --save playcanvas-awaitassets
+npm install --save playcanvas-awaitassets
 ```
 
 ### Usage
