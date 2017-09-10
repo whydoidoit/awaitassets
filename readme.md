@@ -1,14 +1,14 @@
-###Introduction
+### Introduction
 
 Promisifies the loading of an asset in PlayCanvas.
 
-###Installation
+### Installation
 
 ```language-shell
 npm intall --save playcanvas-awaitassets
 ```
 
-###Usage
+### Usage
 
 ```language-javascript
 import awaitAsset from 'playcanvas-awaitassets';
@@ -21,6 +21,6 @@ awaitAsset(someAssedId).then(function() { ... ]);
 
 ```
 
-###Requirements
+### Requirements
 
 Requires PlayCanvas Engine to be running on the page.
