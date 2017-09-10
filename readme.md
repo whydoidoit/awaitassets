@@ -17,7 +17,7 @@ import awaitAsset from 'playcanvas-awaitassets';
 
 await awaitAsset(someAssetId);
 
-awaitAsset(someAssedId).then(function() { ... ]); 
+awaitAsset(someAssedId).then(function() { ... }); 
 
 ```
 
